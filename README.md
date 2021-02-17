@@ -1,7 +1,7 @@
 # Covid_Vaccination_Progress-Data-Analysis
 
 The given data set is obtained from kaggle. 
-The database consists of the number of doses avaialbe in a total of 90 countries on a daily basis and a few ratios such as the number of doses avaialbe per million people.
+The database consists of the number of doses availabe in a total of 90 countries on a daily basis and a few ratios such as the number of doses availabe per million people.
 It is cleaned first and analyzed to obtain the following.
 
 1. The top 10 countries in the world with the highest doses of vaccination available. 
