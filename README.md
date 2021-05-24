@@ -7,5 +7,7 @@ It is cleaned first and analyzed to obtain the following.
 1. The top 10 countries in the world with the highest doses of vaccination available. 
 2. The trend of increase in the doses available in each of the countries on a daily basis.
 3. The top 20 countries where maximum doses per million people are being provided. This analysis is based on the population of the country and the number of doses avaialbe on a daily basis.
+![Hover Data Twitter](./readme_images/Bar_Chart.png)
 4. The top 20 days when maximum number of doses were made available to the public worldwide.
 5. The vaccines that are most available to worldwide and the companies serving most countries by supplying them with vaccines worldwide to help fight the battle from Covid.
+![Hover Data Twitter](./readme_images/Pie_Chart.png)
